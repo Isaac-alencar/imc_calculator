@@ -6,22 +6,9 @@
   />
 </h1>
 
-<p>
+<p align="center">
   <img 
     src="./.github/mockup-app.png"
-    alt="Resultado final"
-  />
-</p>
-<p>
-  <img 
-    src="./.github/mockup-app.png"
-    alt="Resultado final"
-  />
-</p>
-
-<p>
-  <img 
-    src="./.github/app_demo"
     alt="Resultado final"
   />
 </p>
